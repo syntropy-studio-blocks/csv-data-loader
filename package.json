@@ -1,0 +1,30 @@
+{
+  "name": "csv-data-loader",
+  "version": "1.0.0",
+  "description": "Load csv data into an array of row arrays.",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/csv-data-loader.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "csv",
+    "loader",
+    "data-loader"
+  ],
+  "author": "Matt Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/csv-data-loader/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/csv-data-loader#readme",
+  "dependencies": {
+    "autodetect-decoder-stream": "^1.0.3",
+    "csv-reader": "^1.0.3",
+    "fs-extra": "^7.0.1"
+  }
+}

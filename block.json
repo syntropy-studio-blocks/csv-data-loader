@@ -1,0 +1,15 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "id": "filePath",
+      "type": "fileSelector"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "csvData",
+      "description": "The array of data rows loaded from the csv file."
+    }
+  ]
+}
